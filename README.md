@@ -1,1 +1,1 @@
-# student-record_manager
+# student-record-manager
